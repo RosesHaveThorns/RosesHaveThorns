@@ -1,6 +1,8 @@
-# 👋 Hi, I’m Rose Awen Brindle (formerly Matthew Brindle) [@MattOnACat]
+# 👋 Hi, I’m Rose Awen Brindle [@MattOnACat]
 
 Im currently studying Space Science and Robotics at Aberystwyth University! I mostly work with C, Java and Python, plus a bit of HTML/CSS/Django when I feel up to doing some web dev.
+
+I was formerly called as Matthew Brindle, just to avoid any confusion!
 
 # 📫 Contact Me
 
