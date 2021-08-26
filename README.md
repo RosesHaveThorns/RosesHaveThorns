@@ -17,3 +17,6 @@ Personal Email: rosebrindle@outlook.com
 
 - [ClWxSim](https://github.com/RosesHaveThorns/C_ClWxSim): A (very) basic weather simulator which I originally coded in Python, now being rewritten in C
 - [Project Altair](https://github.com/RosesHaveThorns/ProjectAltair): A barebones x86 OS, built from scratch
+- [TilesWorlds](https://github.com/RosesHaveThorns/Tiles-Worlds): A deck-building, tile based strategy game created using Unity
+- [Transdata](https://trans-data.net/): A frontend website for a database of Transgender Research, created using CSS, HTML, PHP and JS, using a Algolia Search Database 
+- [Personal Website & Blog](https://www.rose-brindle.dev/): Personal website including detail links to all my projects, created using CSS, HTML, PHP and JS
