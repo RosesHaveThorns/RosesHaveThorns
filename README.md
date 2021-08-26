@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Rose Awen Brindle [@RosesHaveThorns]
 
-Im currently studying Space Science and Robotics at Aberystwyth University! I mostly work with C, Java and Python, plus a bit of HTML/CSS/Django when I feel up to doing some web dev. Oh and I'm a space nerd too!
+Im currently studying Space Science and Robotics at Aberystwyth University! I mostly work with C, Java and Python, plus a bit of HTML/CSS/PHP/JS/Django when I feel up to doing some web dev. Oh and I'm a space nerd too!
 
 # ℹ️ Find Out More
 
