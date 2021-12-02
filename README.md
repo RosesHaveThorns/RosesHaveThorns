@@ -9,9 +9,7 @@ https://www.rose-brindle.dev/
 
 # 📫 Contact Me
 
-University Email: msb11@aber.ac.uk
-
-Personal Email: rosebrindle@outlook.com
+Personal Email: contactme@rose-brindle.dev
 
 # 🚧 Current Projects
 
