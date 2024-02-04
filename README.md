@@ -1,15 +1,11 @@
 # 👋 Hi, I’m Rose Awen Brindle [@RosesHaveThorns]
 
-Im currently studying Space Science and Robotics and supporting the Fish Robotics Research Group as a Research Assistant at Aberystwyth University! I mostly work with C, Java and Python, plus a bit of HTML/CSS/PHP/JS/Django when I feel up to doing some web dev. Oh and I'm a space nerd too!
+Im currently studying Space Science and Robotics and supporting manufacturing with data analysis at AberInstruments! I mostly work with C, Java and Python, plus a bit of HTML/CSS/PHP/JS/Django when I feel up to doing some web dev. Oh and I'm a space nerd too!
 
 # ℹ️ Find Out More
 
 For more info about me, my projects and my experience, checkout my website:
 https://www.rose-brindle.dev/
-
-# 📫 Contact Me
-
-Personal Email: contactme@rose-brindle.dev
 
 # 🚧 Current Projects
 
